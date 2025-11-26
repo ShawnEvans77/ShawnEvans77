@@ -1,6 +1,6 @@
 ## Hello! 
 
-My name is Shawn. I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn College, helping impressionable young people realize that they have the potential to do be great engineers. My main interests are C and compilers, but I dabble in Python as well. Java is my 'mother tongue', and the language I am most familiar with. It is what I LeetCode in! I use Vim, by the way.
+My name is Shawn. I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn College, helping impressionable young people realize that they have the potential to be great engineers. My main interests are C and compilers, but I dabble in Python as well. Java is my 'mother tongue', and the language I am most familiar with. It is what I LeetCode in! I use Neovimim, by the way.
 
 Check out my projects! I'm working on Socks (🧦), an application to allow my fellow tutors to auto-generate their time-sheets. I also want to one day create a compiler for different Esoteric Programming Languages, like Brainfudge. I did a Brainfudge intepreter in Python, one day I will build a compiler. I'm also learning Raylib to write a game in C. 
 
