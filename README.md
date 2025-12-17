@@ -1,8 +1,10 @@
 ## Hello! 
 
-My name is Shawn. I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn College, helping impressionable young people realize that they have the potential to be great engineers. My main interests are C and compilers, but I dabble in Python as well. Java is my 'mother tongue', and the language I am most familiar with. It is what I LeetCode in! I use Neovimim, by the way.
+My name is Shawn. I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn College, helping impressionable young people realize that they have the potential to be great engineers. My main interests are C++ and compilers, but I dabble in Python as well. Java is my 'mother tongue', and the language I am most familiar with. It is what I LeetCode in! I use Neovimim, by the way.
 
-Check out my projects! I'm working on Socks (🧦), an application to allow my fellow tutors to auto-generate their time-sheets. I also want to one day create a compiler for different Esoteric Programming Languages, like Brainfudge. I did a Brainfudge intepreter in Python, one day I will build a compiler. I'm also learning Raylib to write a game in C. 
+Check out my projects! I'm working on Socks (🧦), an application to allow my fellow tutors to auto-generate their time-sheets. I'm studying compilers, you can view that in the 'Kaleidoscope Compiler' directory. I am making a cute game using Python, currently I am going to give it a physics engine. 
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,rust)](https://skillicons.dev)
 
 <!--
 **ShawnEvans77/ShawnEvans77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
