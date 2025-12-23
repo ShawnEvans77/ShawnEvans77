@@ -4,6 +4,10 @@ My name is Shawn. I'm a CS grad looking for a job. Right now I work as a tutor a
 
 Check out my projects! I'm working on Socks (🧦), an application to allow my fellow tutors to auto-generate their time-sheets. I'm studying compilers, you can view that in the 'Kaleidoscope Compiler' directory. I am making a cute game using Python, currently I am going to give it a physics engine. 
 
+Check out my biggest toy project: https://cisc-1115.vercel.app/ - maple 🥞
+
+I'm noticing a gap between what students know compared to what they are expected to know. So, I've been working on a platform to help them practice real fundementals as opposed to contrived toy puzzles. 
+
 <p align="center"> These are the programming languages I use: </p>
 <p align="center">   <a href="https://skill-icons-builder.vercel.app/">      <img src="https://skillicons.dev/icons?i=java,py,cpp,c,rust,javascript,ts,html,css&center=true&perline=10" />    </a>  </p>
 
