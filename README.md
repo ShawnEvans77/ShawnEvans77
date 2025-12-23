@@ -1,15 +1,16 @@
 ## Hello! 
 
-My name is Shawn. I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn College, helping impressionable young people realize that they have the potential to be great engineers. My main interests are C++ and compilers, but I dabble in Python as well. Java is my 'mother tongue', and the language I am most familiar with. It is what I LeetCode in! I use Neovimim, by the way.
+My name is Shawn. I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn College, helping impressionable young people realize that they have the potential to be great engineers. My main interests are C++ and compilers, but I dabble in Python as well. Java is my 'mother tongue', and the language I am most familiar with. It is what I LeetCode in! I use Neovim, btw.
 
-Check out my projects! I'm working on Socks (🧦), an application to allow my fellow tutors to auto-generate their time-sheets. I'm studying compilers, you can view that in the 'Kaleidoscope Compiler' directory. I am making a cute game using Python, currently I am going to give it a physics engine. 
+Here's what I've been working on:
 
-Check out my biggest toy project: https://cisc-1115.vercel.app/ - maple 🥞
+-- Socks (🧦), an application to allow my fellow tutors to auto-generate their time-sheets
+-- maple 🥞, my biggest toy project, a learning platform for Brooklyn College computer science students. View it here - https://cisc-1115.vercel.app/
+-- a C++ compiler for the toy language 'Kaleidoscope'
+-- waffles 🧇, a 2D game written in Python
 
-I'm noticing a gap between what students know compared to what they are expected to know. So, I've been working on a platform to help them practice real fundementals as opposed to contrived toy puzzles. 
-
-<p align="center"> These are the programming languages I use: </p>
-<p align="center">   <a href="https://skill-icons-builder.vercel.app/">      <img src="https://skillicons.dev/icons?i=java,py,cpp,c,rust,javascript,ts,html,css&center=true&perline=10" />    </a>  </p>
+<p align="center"> These are the technologies I use: </p>
+<p align="center">   <a href="https://skill-icons-builder.vercel.app/">      <img src="https://skillicons.dev/icons?i=java,py,cpp,c,rust,javascript,ts,react,html,css&center=true&perline=10" />    </a>  </p>
 
 <!--
 **ShawnEvans77/ShawnEvans77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
