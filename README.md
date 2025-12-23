@@ -4,10 +4,12 @@ My name is Shawn. I'm a CS grad looking for a job. Right now I work as a tutor a
 
 Here's what I've been working on:
 
--- Socks (🧦), an application to allow my fellow tutors to auto-generate their time-sheets
--- maple 🥞, my biggest toy project, a learning platform for Brooklyn College computer science students. View it here - https://cisc-1115.vercel.app/
--- a C++ compiler for the toy language 'Kaleidoscope'
--- waffles 🧇, a 2D game written in Python
+<ul>
+<li>Socks (🧦), an application to allow my fellow tutors to auto-generate their time-sheets</li>
+<li>maple 🥞, my biggest toy project, a learning platform for Brooklyn College computer science students. View it here - https://cisc-1115.vercel.app/</li>
+<li>a C++ compiler for the toy language 'Kaleidoscope'</li>
+<li>waffles 🧇, a 2D game written in Python</li>
+</ul>
 
 <p align="center"> These are the technologies I use: </p>
 <p align="center">   <a href="https://skill-icons-builder.vercel.app/">      <img src="https://skillicons.dev/icons?i=java,py,cpp,c,rust,javascript,ts,react,html,css&center=true&perline=10" />    </a>  </p>
