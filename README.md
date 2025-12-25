@@ -6,7 +6,7 @@ Here's what I've been working on:
 
 <ul>
 <li>Socks (🧦), an application to allow my fellow tutors to auto-generate their time-sheets</li>
-<li>maple 🥞, my biggest toy project, a learning platform for Brooklyn College computer science students. View it here - https://cisc-1115.vercel.app/</li>
+<li>maple 🥞, my biggest toy project, a learning platform for Brooklyn College computer science students. 
 <li>a C++ compiler for the toy language 'Kaleidoscope'</li>
 <li>waffles 🧇, a 2D game written in Python</li>
 </ul>
