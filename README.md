@@ -12,7 +12,7 @@ Here's what I've been working on:
 </ul>
 
 <p align="center"> These are the technologies I use: </p>
-<p align="center">   <a href="https://skill-icons-builder.vercel.app/">      <img src="https://skillicons.dev/icons?i=java,py,cpp,c,rust,javascript,ts,react,html,css&center=true&perline=10" />    </a>  </p>
+<p align="center">   <a href="https://skill-icons-builder.vercel.app/">      <img src="https://skillicons.dev/icons?i=java,py,cpp,c,rust,docker,javascript,ts,react,html,css&center=true&perline=10" />    </a>  </p>
 
 <!--
 **ShawnEvans77/ShawnEvans77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
