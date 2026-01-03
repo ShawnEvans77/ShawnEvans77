@@ -5,10 +5,10 @@ Hi, I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn Col
 Here's what I've been working on:
 
 <ul>
-<li>marnie bot (👢), a pokemon discord bot using restAPIs and python</li>
-<li>Socks (🧦), an application to allow my fellow tutors to auto-generate their time-sheets</li>
-<li>maple (🥞), my biggest toy project, a learning platform for Brooklyn College computer science students. 
-<li>waffles (🧇), a 2D game written in Python</li>
+<li>marnie bot, a pokemon discord bot using restAPIs and python</li>
+<li>socks, an application to allow my fellow tutors to auto-generate their time-sheets</li>
+<li>maple, my biggest toy project, a learning platform for Brooklyn College computer science students. 
+<li>waffles, a 2D game written in Python</li>
 </ul>
 
 There are other random toy repositories here, like a Brainfudge intepreter I wrote in Python. The main stuff is in my pinned, but you will see some fascinating stuff in my repositories. 
