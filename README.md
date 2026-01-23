@@ -5,9 +5,9 @@ Hi, I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn Col
 Here's what I've been working on:
 
 <ul>
-<li>marnie bot, a pokemon discord bot using restAPIs and python</li>
+<li>marnie bot, a pokemon python discord bot replicating pokemon showdown's !dt command</li>
 <li>socks, an application to allow my fellow tutors to auto-generate their time-sheets</li>
-<li>maple, my biggest toy project, a learning platform for Brooklyn College computer science students. 
+<li>maple, a website made so students at my college don't need to take pictures of messy chalkboards for notes
 </ul>
 
 There are other random toy repositories here, like a Brainfudge intepreter I wrote in Python. The main stuff is in my pinned, but you will see some fascinating stuff in my repositories. 
