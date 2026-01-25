@@ -12,6 +12,8 @@ Here's what I've been working on:
 
 There are other random toy repositories here, like a Brainfudge intepreter I wrote in Python. The main stuff is in my pinned, but you will see some fascinating stuff in my repositories. 
 
+Please note, no AI-generated code was used in any of the pinned repositories. 
+
 <p align="center"> These are the technologies I use: </p>
 <p align="center">   <a href="https://skill-icons-builder.vercel.app/">      <img src="https://skillicons.dev/icons?i=java,py,cpp,c,docker,javascript,ts,react,html,css&center=true&perline=10" />    </a>  </p>
 
