@@ -4,7 +4,7 @@ Hi, I'm a CS grad looking for a job. Right now, I work as a tutor at Brooklyn Co
 
 Here's what I've been working on:
 
-* **[marnie](https://github.com/ShawnEvans77/marnie-bot)**, a discord bot replicating pokemon showdown's !dt command</li>
+* **[marnie](https://github.com/ShawnEvans77/marnie-bot)**, a discord bot themed around pokemon</li>
 * **[socks](https://github.com/ShawnEvans77/socks)**, a script that lets my fellow tutors auto-generate their time-sheets</li>
 * **[maple](https://cisc-1115.vercel.app/)**, a website made so students at my college don't need to take pictures of messy chalkboards for notes
 
