@@ -1,12 +1,12 @@
 ## Hi, I'm Shawn!
 
-Hi, I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn College. I help young adults realize that they have the potential to be great engineers. 
+Hi, I'm a CS grad looking for a job. Right now, I work as a tutor at Brooklyn College. I help young adults realize that they have the potential to be great engineers. 
 
 Here's what I've been working on:
 
-* **[marnie](https://github.com/ShawnEvans77/marnie-bot)**, a pokemon python discord bot replicating pokemon showdown's !dt command</li>
-* **[socks](https://github.com/ShawnEvans77/socks)**, an application to allow my fellow tutors to auto-generate their time-sheets</li>
-* **[maple](https://cisc-1115.vercel.app/)**, a website made so students at my college don't need to take pictures of messy chalkboards for notes.
+* **[marnie](https://github.com/ShawnEvans77/marnie-bot)**, a discord bot replicating pokemon showdown's !dt command</li>
+* **[socks](https://github.com/ShawnEvans77/socks)**, a script that lets my fellow tutors auto-generate their time-sheets</li>
+* **[maple](https://cisc-1115.vercel.app/)**, a website made so students at my college don't need to take pictures of messy chalkboards for notes
 
 My Dev Portfolio can be found here: https://shawnevans.vercel.app/
 
