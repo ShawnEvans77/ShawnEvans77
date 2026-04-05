@@ -1,16 +1,14 @@
 ## Hello! 
 
-Hi, I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn College. I help young adults realize that they have the potential to be great engineers. My main interests are C++ and compilers, but I've been working with Python recently. Java is my 'mother tongue'. I use Neovim, btw.
+Hi, I'm a CS grad looking for a job. Right now I work as a tutor at Brooklyn College. I help young adults realize that they have the potential to be great engineers. 
 
 Here's what I've been working on:
 
 <ul>
-<li>marnie bot, a pokemon python discord bot replicating pokemon showdown's !dt command</li>
-<li>socks, an application to allow my fellow tutors to auto-generate their time-sheets</li>
-<li>maple, a website made so students at my college don't need to take pictures of messy chalkboards for notes. hosted at https://cisc-1115.vercel.app/
+<li>**[marnie](https://github.com/ShawnEvans77/marnie-bot)**, a pokemon python discord bot replicating pokemon showdown's !dt command</li>
+<li>**[socks](https://github.com/ShawnEvans77/socks)**, an application to allow my fellow tutors to auto-generate their time-sheets</li>
+<li>**[maple](https://cisc-1115.vercel.app/)**, a website made so students at my college don't need to take pictures of messy chalkboards for notes.
 </ul>
-
-There are other random toy repositories here, like a Brainfudge intepreter I wrote in Python. The main stuff is in my pinned, but you will see some fascinating stuff in my repositories. 
 
 My Dev Portfolio can be found here: https://shawnevans.vercel.app/
 
