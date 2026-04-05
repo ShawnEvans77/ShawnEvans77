@@ -1,6 +1,6 @@
 ## Hi, I'm Shawn!
 
-Hi, I'm a CS grad looking for a job. Right now, I work as a tutor at Brooklyn College. I help young adults realize that they have the potential to be great engineers. 
+I'm a CS grad looking for a job. Right now, I work as a tutor at Brooklyn College. I turn young adults into great engineers. 
 
 Here's what I've been working on:
 
